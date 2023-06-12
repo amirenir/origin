@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: burlywood;
+
+}
+h1{
+    color: brown;
+}
+p{
+    color: black;
+}
